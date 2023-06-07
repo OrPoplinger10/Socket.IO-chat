@@ -1,4 +1,4 @@
-# Socket.io-chat
+# Socket.IO-chat
 
 In this project I built a chat that allows correspondence between people from different computers, 
 I built this chat with the help of socket.io. 
